@@ -4,7 +4,6 @@ RUN apt-get update \
     && apt-get install -y --no-install-recommends barman gettext-base \ 
     && rm -rf /var/lib/apt/lists/*
 
-
 ENV \
     DATA_DIR=/var/lib/barman \
     BACKUP_NAME=prod-core \
