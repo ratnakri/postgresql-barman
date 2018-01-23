@@ -1,0 +1,2 @@
+${IP_HOST}:${DB_PORT}:${DB_NAME}:${DB_USERNAME}:${DB_PASS}
+${IP_HOST}:${DB_PORT}:replication:${DB_USERNAME}:${DB_PASS}
